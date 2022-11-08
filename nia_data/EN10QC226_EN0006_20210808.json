@@ -1,0 +1,37 @@
+{
+	"fileName": "EN10QC226_EN0006_20210808.wav",
+	"file_info": {
+		"speakerID": "EN0006",
+		"sentenceID": "EN10QC226",
+		"recordUnit": "ios",
+		"recordQuality": "16bit 16kHz MONO",
+		"recordDate": "2021-08-08 16:54:20",
+		"recordTime": "12.835"
+	},
+	"transcription": {
+		"Reading": "",
+		"ReadingLabelText": "",
+		"Question": "당신은 어느 나라에서 왔나요? 한국에 온 이유는 무엇인가요?",
+		"AnswerLabelText": "저는 미국에서 왔습니다 저는 한국에서 있+ 오는 이유는 한국어를 제대로 공부하고 싶어서 왔습니다",
+		"SentenceSpeechLV": "중"
+	},
+	"SpeakerID": "EN0006",
+	"basic_info": {
+		"gender": "F",
+		"birthYear": "1992",
+		"eduBackground": "석사이상"
+	},
+	"residence_info": {
+		"country": "US",
+		"residencePeriod": "1년 미만",
+		"residenceCity": "KR-11"
+	},
+	"skill_info": {
+		"languageClass": "영어",
+		"motherTongue": "영어",
+		"selfAssessment": "중",
+		"topikGrade": "3",
+		"LearningPeriod": "60",
+		"learningSource": "학교 수업 (대학 포함)"
+	}
+}
